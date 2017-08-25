@@ -1,0 +1,10 @@
+SPREADSHEET_ID =
+
+CLIENT_SECRET_PATH = '/Users/rhyshutchison/Sites/contest-leaderboard/client_secret.json'
+CREDENTIALS_PATH = '~/.credentials/sheets.googleapis.com-php-quickstart.json'
+APPLICATION_NAME = 'Google Sheets API PHP Quickstart'
+
+GET_AMBASSADOR_USERNAME = ''
+GET_AMBASSADOR_KEY = ''
+CM_API_KEY = ''
+CM_LIST_ID = ''

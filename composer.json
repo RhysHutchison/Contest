@@ -1,0 +1,20 @@
+{
+  "name": "Contest-Leaderboard",
+  "authors": [
+    {
+      "name": "Rhys Hutchison",
+      "email": "rhutchison@deputy.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "^2.0",
+    "vlucas/phpdotenv": "^2.4",
+    "campaignmonitor/createsend-php": "^5.1"
+  },
+  "autoload": {
+    "classmap": [
+      "app.php",
+      "./classes/"
+    ]
+  }
+}
